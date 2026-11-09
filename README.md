@@ -1,2 +1,2 @@
 # distroav-plugin-copr-resources
-Fix for Fedora's broken OBS Studio DistroAV plugin
+Resources for my OBS_Studio_Plugin_DistroAV_Runtimes COPR repo.
